@@ -1,0 +1,6 @@
+farm_id,region,berry_type,planting_date,harvest_date,expected_yield_kg,actual_yield_kg,labor_hours,fertilizer_kg
+F001,Jalisco,Strawberry,2024-09-01,2025-01-15,5200,4950,420,310
+F002,Jalisco,Raspberry,2024-08-20,2025-01-05,4300,4400,380,290
+F003,Michoacan,Blueberry,2024-09-10,2025-01-25,6100,5750,510,360
+F004,Baja California,Strawberry,2024-08-30,2025-01-10,5000,5200,450,300
+F005,Jalisco,Blackberry,2024-09-05,2025-01-18,4700,4500,400,275

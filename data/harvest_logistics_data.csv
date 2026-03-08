@@ -1,0 +1,6 @@
+shipment_id,farm_id,harvest_date,transport_time_hours,delay_hours,quality_score
+S001,F001,2025-01-15,5,1,8.5
+S002,F002,2025-01-05,4,0,9.1
+S003,F003,2025-01-25,7,2,7.8
+S004,F004,2025-01-10,6,0,9.3
+S005,F005,2025-01-18,5,1,8.0

@@ -1,0 +1,7 @@
+date,region,temperature_c,rainfall_mm,humidity
+2024-10-01,Jalisco,23,12,68
+2024-10-01,Michoacan,22,18,72
+2024-10-01,Baja California,25,2,55
+2024-11-01,Jalisco,21,20,75
+2024-11-01,Michoacan,20,25,78
+2024-11-01,Baja California,24,4,60
